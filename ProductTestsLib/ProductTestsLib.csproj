@@ -54,6 +54,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\ProductAdapterLib\ProductAdapterLib.csproj">
+      <Project>{2dac5708-2074-4cd2-9fc8-a2ff65f549ed}</Project>
+      <Name>ProductAdapterLib</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ProductLib\ProductLib.csproj">
       <Project>{8567c524-e7a6-4ae4-bf12-18540f835972}</Project>
       <Name>ProductLib</Name>

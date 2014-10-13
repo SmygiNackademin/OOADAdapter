@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductTestsLib", "ProductT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductLib", "ProductLib\ProductLib.csproj", "{8567C524-E7A6-4AE4-BF12-18540F835972}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductAdapterLib", "ProductAdapterLib\ProductAdapterLib.csproj", "{2DAC5708-2074-4CD2-9FC8-A2FF65F549ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8567C524-E7A6-4AE4-BF12-18540F835972}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8567C524-E7A6-4AE4-BF12-18540F835972}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8567C524-E7A6-4AE4-BF12-18540F835972}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DAC5708-2074-4CD2-9FC8-A2FF65F549ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DAC5708-2074-4CD2-9FC8-A2FF65F549ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DAC5708-2074-4CD2-9FC8-A2FF65F549ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DAC5708-2074-4CD2-9FC8-A2FF65F549ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

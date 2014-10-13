@@ -8,5 +8,6 @@ namespace ProductLib.Models
 {
     public class SomeExternalVendorProduct
     {
+        public string Description { get; set; }
     }
 }
