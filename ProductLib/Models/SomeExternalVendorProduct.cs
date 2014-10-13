@@ -9,5 +9,7 @@ namespace ProductLib.Models
     public class SomeExternalVendorProduct
     {
         public string Description { get; set; }
+        public string EANCode { get; set; }
+        public decimal PricePerUnit { get; set; }
     }
 }

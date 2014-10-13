@@ -8,6 +8,8 @@ namespace ProductLib.Interfaces
 {
     public interface IProduct
     {
-        string Title { get; set; }
+        string Title { get; }
+        string BarCode { get; }
+        decimal UnitPrice { get; }
     }
 }
