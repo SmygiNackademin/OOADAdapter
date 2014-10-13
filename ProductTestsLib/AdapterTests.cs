@@ -11,7 +11,7 @@ namespace ProductTestsLib
         {
             // ARRANGE
             Product p = new Product();
-
+            SomeExternalVendorProduct ep = new SomeExternalVendorProduct();
             // ACT
 
             // ASSERT
